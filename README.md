@@ -8,7 +8,7 @@ This repository is an adaptation of this one: https://github.com/atgambardella/p
 
 # News
 
-I have developed an Tic-tac-toe environment for the ES training process. As this game can be studied in full depth by a classical min-max tree, I've used this classic AI to move against our neural network model.
+I have developed a Tic-tac-toe environment for the ES training process. As this game can be studied in full depth by a classical min-max tree, I've used this classic AI to play against our neural network model.
 The last result is a model that thanks to the evolutionary computation can reach a zero-perfect game against the classical AI brute force strategy.
 
 # Requirements
